@@ -1,0 +1,16 @@
+{
+  "name": "Derech Ayson Rabbinical Seminary",
+  "short_name": "DARS",
+  "description": "501(c)(3) nonprofit rabbinical seminary in Far Rockaway, NY. EIN: 11-2611716.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ef",
+  "theme_color": "#4a3a2f",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

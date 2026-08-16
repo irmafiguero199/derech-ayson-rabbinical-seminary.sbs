@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.derech-ayson-rabbinical-seminary.sbs/sitemap.xml
