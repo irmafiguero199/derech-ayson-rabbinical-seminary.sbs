@@ -22,7 +22,7 @@ function Team() {
     {
       name: 'Rabbi Avraham Stern',
       role: 'Secretary',
-      bio: 'Rabbi Stern serves as the seminary's senior maggid shiur and has been a faculty member since 2016. He holds a doctorate in Jewish philosophy from Yeshiva University and is the author of three books on contemporary Halacha.',
+      bio: "Rabbi Stern serves as the seminary's senior maggid shiur and has been a faculty member since 2016. He holds a doctorate in Jewish philosophy from Yeshiva University and is the author of three books on contemporary Halacha.",
     },
     {
       name: 'Dr. Michael Feldman',
@@ -32,7 +32,7 @@ function Team() {
     {
       name: 'Mr. Jacob Weiss',
       role: 'Board Member',
-      bio: 'Mr. Weiss is a successful entrepreneur and philanthropist who has been a dedicated supporter of Torah education for over three decades. He chairs the development committee and works to expand the seminary's financial resources.',
+      bio: "Mr. Weiss is a successful entrepreneur and philanthropist who has been a dedicated supporter of Torah education for over three decades. He chairs the development committee and works to expand the seminary's financial resources.",
     },
   ]
 
