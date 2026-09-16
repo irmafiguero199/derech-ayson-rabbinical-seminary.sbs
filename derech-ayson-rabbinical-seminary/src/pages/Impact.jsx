@@ -46,7 +46,7 @@ function Impact() {
     'Rabbinical Council of America',
     'Yeshiva University',
     'Touro College',
-    'Ohel Children's Home',
+    "Ohel Children's Home",
     'Chai Lifeline',
   ]
 
